@@ -1,0 +1,1 @@
+select * from dbsEmployees.departments ORDER BY dept_name;
